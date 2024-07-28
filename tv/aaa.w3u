@@ -1,1 +1,28 @@
+{
+	"name": "SKIDDY'S WISEPLAY [+Japan Channnel]",
+	"author": "skiddy1337",
+	"image": "https://i.pinimg.com/1200x/24/eb/c7/24ebc7943f44a61bccbc0995074f69d6.jpg",
+	"url": "http://gg.gg/skiddywise",
+	"info": "✨สำหรับคนพิเศษ และเสพติดความเป็นญี่ปุ่น",
 
+"groups": 
+[
+     {
+"name": "❗กดก่อน 1 ครั้ง❗",
+"image": "https://sv1.picz.in.th/images/2021/12/07/6lhCmJ.jpg",
+"url": "http://gg.gg/skiddywise"
+},
+{
+"name": "📺ช่องทีวี [TH🍃]",
+"author": "IPTV Society",
+"image": "https://sv1.picz.in.th/images/2022/02/08/rdKgL9.png",
+"url": "https://drive.google.com/uc?id=1BAO4tVtBMANW-MqONsiW0BSEZNSsuWOT"
+},
+{
+"name": "📺ช่องทีวี [JP🌸]",
+"author": "IPTV Society",
+"image": "https://sv1.picz.in.th/images/2022/02/08/rdKgL9.png",
+"url": "https://raw.githubusercontent.com/luongz/iptv-jp/main/jp.m3u"
+},
+]
+}

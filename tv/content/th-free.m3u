@@ -1,3 +1,7 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml" refresh="3600" 
+
+
+
 #EXTINF:-1 tvg-chno="2" tvg-id="NBT 2 HD.th" tvg-name="NBT 2 HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0001.png",NBT 2 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8

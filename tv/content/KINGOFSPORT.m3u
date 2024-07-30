@@ -60,14 +60,15 @@
   {
    "name": "True Premier Football 3",
    "image": "https://dookeela.live/uploads/1664499681.png",
-   "url": "https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8",
+   "url":"https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8",
    "referer": "https://dooball123.com/"
   },
   {
    "name": "True Premier Football 4",
    "image": "https://dookeela.live/uploads/1664499692.png",
-   "url": "https://dookeela.live/live-tv/epl4",
-   "referer": "https://dookeela.live/"
+   "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-4&api_key=xjA7kf1WXmzK",
+   "referer": "https://playerembed-lb.blackboxsys.net/",
+   "userAgent":"ExoPlayerDemo/2.250 (Linux;Android 4.4.4) ExoPlayerLib/2.9.0"
   },
   {
    "name": "True Premier Football 5",

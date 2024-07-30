@@ -15,12 +15,14 @@
 		"author": "skiddy1337",
 		"image": "https://sv1.picz.in.th/images/2022/02/08/rdKgL9.png",
 		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/th-free.w3u"
+		"import":"true"
 	},
 	{
 		"name": "📺ช่องทีวี [JP🌸]",
 		"author": "skiddy1337 x luongz",
 		"image": "https://sv1.picz.in.th/images/2022/02/08/rdKgL9.png",
 		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/jp-channel.m3u"
+		"import":"true"
 	},
 ]
 }

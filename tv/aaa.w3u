@@ -29,64 +29,65 @@
 		"groups": [
 		{
 			"name": "SPORT (ค่ายแดง(T)/ค่ายเขียว(A))",
-			"image": "https://22-hd.com/wp-content/uploads/2024/03/Logo-22hd.webp",
+			"image": "",
 			"groups": [
 			{
 				"name": "SPORT (ค่ายแดง(T)/ค่ายเขียว(A))",
 				"image": "https://positioningmag.com/wp-content/uploads/2018/06/open_true_ais_new.png",
-				"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u",
+				"url": "",
 				"import":"true"
 			},
 			{
 				"name": "SPORT (ต่างประเทศ)",
 				"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/sports-channels-logo-design-template-a317a76257b08aa098f10034a5d2dc52_screen.jpg?ts=1685766869",
-				"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u",
+				"url": "",
 				"import":"true"
 			},
 			{
 				"name": "⛳Olympic 2024",
 				"image": "https://images.squarespace-cdn.com/content/v1/5ec2f36f2fd0c5570cbedcb7/91351263-16d4-4f6f-84c1-9cf0d59776f0/Screenshot+2024-07-25+at+2.44.37%E2%80%AFPM.png",
-				"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/olymm.m3u",
+				"url": "",
 				"import":"true"
 			}
 		]
 		}
+	]
 	},
 	{
 		"name": "📺🌼Platinum (ค่ายแดง)",
 		"author": "skiddy1337",
 		"image": "https://img.freepik.com/free-vector/hand-drawn-handyman-cartoon-illustration_23-2150759806.jpg",
-		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
+		"url": ""
 	},
 	{
 		"name": "📺🌸Premium (ค่ายเขียว)",
 		"author": "skiddy1337",
 		"image": "https://img.freepik.com/free-vector/hand-drawn-handyman-cartoon-illustration_23-2150759806.jpg",
-		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
+		"url": ""
 	},
 	{
 		"name": "🎬ดูหนังออนไลน์",
 		"author": "skiddy1337",
 		"image": "https://img.freepik.com/free-vector/hand-drawn-handyman-cartoon-illustration_23-2150759806.jpg",
-		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
+		"url": ""
 	},
 	{
 		"name": "🎬ดูซีรีย์ออนไลน์",
 		"author": "skiddy1337",
 		"image": "https://img.freepik.com/free-vector/hand-drawn-handyman-cartoon-illustration_23-2150759806.jpg",
-		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
+		"url": ""
 	},
 	{
 		"name": "🎬ดูอนิเมะ/การ์ตูนออนไลน์",
 		"author": "skiddy1337",
 		"image": "https://img.freepik.com/free-vector/hand-drawn-handyman-cartoon-illustration_23-2150759806.jpg",
-		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
+		"url": ""
 	},
 	{
 		"name": "⚽ดูกีฬาย้อนหลัง",
 		"author": "skiddy1337",
 		"image": "https://img.freepik.com/free-vector/hand-drawn-handyman-cartoon-illustration_23-2150759806.jpg",
-		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
+		"url": ""
 	},
 ]
 }

@@ -15,14 +15,12 @@
 		"author": "skiddy1337",
 		"image": "https://media.tenor.com/9gXQvbM5aIYAAAAM/anime-girl.gif",
 		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/th-free.w3u"
-		"import":"true"
 	},
 	{
 		"name": "📺ช่องทีวี [JP🌸]",
 		"author": "skiddy1337 x luongz",
 		"image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
 		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/jp-channel.m3u"
-		"import":"true"
 	},
 	{
 		"name": "🏈SPORTS",
@@ -53,49 +51,42 @@
 			}
 		]
 		}
-	  ]
 	},
 	{
 		"name": "📺🌼Platinum (ค่ายแดง)",
 		"author": "skiddy1337",
 		"image": "https://img.freepik.com/free-vector/hand-drawn-handyman-cartoon-illustration_23-2150759806.jpg",
 		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
-		"import":"true"
 	},
 	{
 		"name": "📺🌸Premium (ค่ายเขียว)",
 		"author": "skiddy1337",
 		"image": "https://img.freepik.com/free-vector/hand-drawn-handyman-cartoon-illustration_23-2150759806.jpg",
 		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
-		"import":"true"
 	},
 	{
 		"name": "🎬ดูหนังออนไลน์",
 		"author": "skiddy1337",
 		"image": "https://img.freepik.com/free-vector/hand-drawn-handyman-cartoon-illustration_23-2150759806.jpg",
 		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
-		"import":"true"
 	},
 	{
 		"name": "🎬ดูซีรีย์ออนไลน์",
 		"author": "skiddy1337",
 		"image": "https://img.freepik.com/free-vector/hand-drawn-handyman-cartoon-illustration_23-2150759806.jpg",
 		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
-		"import":"true"
 	},
 	{
 		"name": "🎬ดูอนิเมะ/การ์ตูนออนไลน์",
 		"author": "skiddy1337",
 		"image": "https://img.freepik.com/free-vector/hand-drawn-handyman-cartoon-illustration_23-2150759806.jpg",
 		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
-		"import":"true"
 	},
 	{
 		"name": "⚽ดูกีฬาย้อนหลัง",
 		"author": "skiddy1337",
 		"image": "https://img.freepik.com/free-vector/hand-drawn-handyman-cartoon-illustration_23-2150759806.jpg",
 		"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
-		"import":"true"
 	},
 ]
 }

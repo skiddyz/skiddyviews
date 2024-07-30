@@ -27,22 +27,6 @@
 		"author": "skiddy1337",
 		"image": "https://pa1.aminoapps.com/7002/e5390f9182acc1018c6ceafdb5127b649df1c0efr1-500-506_hq.gif",
 		"groups": [
-		{
-			"name": "SPORT (ค่ายแดง(T)/ค่ายเขียว(A))",
-			"image": "",
-			"groups": [
-			{
-				"name": "SPORT (ค่ายแดง(T)/ค่ายเขียว(A))",
-				"image": "https://positioningmag.com/wp-content/uploads/2018/06/open_true_ais_new.png",
-				"url": "",
-				"import":"true"
-			},
-			{
-				"name": "SPORT (ต่างประเทศ)",
-				"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/sports-channels-logo-design-template-a317a76257b08aa098f10034a5d2dc52_screen.jpg?ts=1685766869",
-				"url": "",
-				"import":"true"
-			},
 			{
 				"name": "⛳Olympic 2024",
 				"image": "https://images.squarespace-cdn.com/content/v1/5ec2f36f2fd0c5570cbedcb7/91351263-16d4-4f6f-84c1-9cf0d59776f0/Screenshot+2024-07-25+at+2.44.37%E2%80%AFPM.png",

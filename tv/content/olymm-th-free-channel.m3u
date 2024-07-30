@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-chno="7" tvg-id="T-Sports7.th" tvg-name="T-Sports7" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/T-SPorts_7_Final.png",T-Sports7
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-id="MCOT HD.th" tvg-name="MCOT HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/MCOT_new.png",MCOT HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0

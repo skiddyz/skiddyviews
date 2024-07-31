@@ -83,6 +83,19 @@
 					"import": "true"
 				}
 			]
+		},
+		{
+			"name": "📺Youtube",
+			"author": "skiddy1337",
+			"image": "https://pa1.aminoapps.com/7002/e5390f9182acc1018c6ceafdb5127b649df1c0efr1-500-506_hq.gif",
+			"groups": [
+				{
+					"name": "🟢Nanake555",
+					"image": "https://stvdoottazasseprd003.blob.core.windows.net/vdo-package-image/b7e07ab8-697f-4598-b2cf-19784d702221/packageImageAttachment/1600x900_img_th.png",
+					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/youtubevideofav/Ya-Ha-Wa-Na-Sorn.m3u",
+					"import": "true"
+				}
+			]
 		}
 	]
 }

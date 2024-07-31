@@ -1,11 +1,16 @@
 {
- "name": "🔴YOUTUBE",
+ "name": "🔴อย่าหาว่าน้าสอน (ไลฟ์เต็ม)",
  "author": "skiddy1337",
  "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
  "stations": [
-   {
-   "name": "อย่าหาว่าน้าสอน Ep 115",
-   "image": "https://dookeela.live/uploads/1664802455.png",
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.1",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722458821/ei/ZU6qZv3vGOCg2roP1qiEqAg/ip/139.162.86.179/id/63fabe6aae77d109/itag/95/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D286520391%3Bdur%3D17704.007%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1557682342796984/sgovp/clen%3D1311214761%3Bdur%3D17703.960%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1557853338368230/rqh/1/hls_chunk_host/rr2---sn-oguelney.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/We/mm/31,29/mn/sn-oguelney,sn-oguesn6y/ms/au,rdu/mv/m/mvi/2/pl/22/force_finished/1/initcwndbps/553750/spc/NO7bAaE5jbvy_YPygYEuwavvztCqhYOxjalocJZPb2XhLyQUxRD4YJkArPRelxE/vprv/1/playlist_type/CLEAN/dover/11/txp/5535432/mt/1722436670/fvip/5/keepalive/yes/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,force_finished,spc,vprv,playlist_type/sig/AJfQdSswRQIgGDx6Bx2DB0eCYLxX_pT7uOFuBZ258pnPWyru-ib3q-YCIQDklOVkklJWf6FWiO_yIV2x77iSfugXcJAYe8wuS9c1VA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AGtxev0wRQIgcaez--cXfFWeJX0ufv3NiY7mbtB8UH6k6VcKview2h8CIQC1iUwyduwKncorScC1R4_uvx38TXjDAvKnsMZGtvOr3Q%3D%3D/playlist/index.m3u8"
+  },
+  {
+   "name": "อย่าหาว่าน้าสอน Ep.115",
+   "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722458269/ei/PUyqZs7MFtGB9fwPssiBsAs/ip/139.162.63.170/id/be749b9b611ce95d/itag/301/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D295115108%3Bdur%3D18235.070%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1722100756743310/sgovp/clen%3D6434281131%3Bdur%3D18235.000%3Bgir%3Dyes%3Bitag%3D299%3Blmt%3D1722100970248477/rqh/1/hls_chunk_host/rr4---sn-npoe7nsy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/_c/mm/31,26/mn/sn-npoe7nsy,sn-ogul7n7d/ms/au,onr/mv/m/mvi/4/pl/21/force_finished/1/initcwndbps/388750/spc/NO7bAQw-F5N4eo_sMVlSxa3iHecfqns6AS3n3zzvkO7TPb1KpnurT7jigpyUmQE/vprv/1/playlist_type/CLEAN/dover/11/txp/7309224/mt/1722436182/fvip/4/keepalive/yes/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,force_finished,spc,vprv,playlist_type/sig/AJfQdSswRAIgLUJGX1ylASFojwaE9xuIHmpJKv1vibWGtxzNP6LJzl0CIC9W0dbZvifUh2fdDocsujc9k82AHKjiuoUYxWWsBCLo/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AGtxev0wRQIhANtUKJg6_P3p3atMhwhZD98rZa8p3pfXXhMwFNmA4MfiAiAKiIAZisXLL-C-M23lZ6TmZRoC3HV35H_wESHcAwbM0A%3D%3D/playlist/index.m3u8"
   }
 ]

@@ -1,5 +1,5 @@
 {
-    "name": "🟢AIS Premium",
+    "name": "🔴SPORTS (T)",
     "author": "skiddy1337",
     "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
     "stations": [
@@ -44,6 +44,11 @@
         "image": "https://dookeela.live//uploads/1703786799.png",
         "url": "https://dookeela.live/live-tv/cinemax",
         "referer": "https://dookeela.live/"
+    },
+    {
+     "name": "More content Soon!",
+     "image": "",
+     "url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
     }
     ]
    }

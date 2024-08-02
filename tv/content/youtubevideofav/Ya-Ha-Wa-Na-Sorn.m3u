@@ -9,9 +9,299 @@
     "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722458821/ei/ZU6qZv3vGOCg2roP1qiEqAg/ip/139.162.86.179/id/63fabe6aae77d109/itag/95/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D286520391%3Bdur%3D17704.007%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1557682342796984/sgovp/clen%3D1311214761%3Bdur%3D17703.960%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1557853338368230/rqh/1/hls_chunk_host/rr2---sn-oguelney.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/We/mm/31,29/mn/sn-oguelney,sn-oguesn6y/ms/au,rdu/mv/m/mvi/2/pl/22/force_finished/1/initcwndbps/553750/spc/NO7bAaE5jbvy_YPygYEuwavvztCqhYOxjalocJZPb2XhLyQUxRD4YJkArPRelxE/vprv/1/playlist_type/CLEAN/dover/11/txp/5535432/mt/1722436670/fvip/5/keepalive/yes/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,force_finished,spc,vprv,playlist_type/sig/AJfQdSswRQIgGDx6Bx2DB0eCYLxX_pT7uOFuBZ258pnPWyru-ib3q-YCIQDklOVkklJWf6FWiO_yIV2x77iSfugXcJAYe8wuS9c1VA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AGtxev0wRQIgcaez--cXfFWeJX0ufv3NiY7mbtB8UH6k6VcKview2h8CIQC1iUwyduwKncorScC1R4_uvx38TXjDAvKnsMZGtvOr3Q%3D%3D/playlist/index.m3u8"
   },
   {
-   "name": "อย่าหาว่าน้าสอน Ep.115",
-   "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
-   "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722458269/ei/PUyqZs7MFtGB9fwPssiBsAs/ip/139.162.63.170/id/be749b9b611ce95d/itag/301/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D295115108%3Bdur%3D18235.070%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1722100756743310/sgovp/clen%3D6434281131%3Bdur%3D18235.000%3Bgir%3Dyes%3Bitag%3D299%3Blmt%3D1722100970248477/rqh/1/hls_chunk_host/rr4---sn-npoe7nsy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/_c/mm/31,26/mn/sn-npoe7nsy,sn-ogul7n7d/ms/au,onr/mv/m/mvi/4/pl/21/force_finished/1/initcwndbps/388750/spc/NO7bAQw-F5N4eo_sMVlSxa3iHecfqns6AS3n3zzvkO7TPb1KpnurT7jigpyUmQE/vprv/1/playlist_type/CLEAN/dover/11/txp/7309224/mt/1722436182/fvip/4/keepalive/yes/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,force_finished,spc,vprv,playlist_type/sig/AJfQdSswRAIgLUJGX1ylASFojwaE9xuIHmpJKv1vibWGtxzNP6LJzl0CIC9W0dbZvifUh2fdDocsujc9k82AHKjiuoUYxWWsBCLo/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AGtxev0wRQIhANtUKJg6_P3p3atMhwhZD98rZa8p3pfXXhMwFNmA4MfiAiAKiIAZisXLL-C-M23lZ6TmZRoC3HV35H_wESHcAwbM0A%3D%3D/playlist/index.m3u8"
+    "name": "อย่าหาว่าน้าสอน Ep.2",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.3",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.4",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.5",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.6",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.7",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.8",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.9",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.10",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.11",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.12",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.13",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.14",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.15",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.16",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.17",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.18",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.19",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.20",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.21",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.22",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.23",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.24",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.25",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.26",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.27",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.28",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.29",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.30",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.31",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.32",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.33",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.34",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.35",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.36",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.37",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.38",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/youtubevideofav/nanake555/%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%AD%E0%B8%99%20Ep%2038.m3u"
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.39",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.40",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.41",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.42",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.43",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.44",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.45",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.46",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.47",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.48",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.49",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.50",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.51",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.52",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.53",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.54",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.55",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.56",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.57",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.58",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.59",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
+  },
+  {
+    "name": "อย่าหาว่าน้าสอน Ep.60",
+    "image": "https://nanake555.com/wp-content/uploads/2021/09/cover_04.jpg",
+    "url": ""
   }
 ]
 }

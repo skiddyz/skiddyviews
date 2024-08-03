@@ -11,6 +11,31 @@
 			"url": "http://gg.gg/skiddywise"
 		},
 		{
+			"name": "📺ทีวีออนไลน์",
+			"author": "skiddy1337",
+			"image": "https://pa1.aminoapps.com/7002/e5390f9182acc1018c6ceafdb5127b649df1c0efr1-500-506_hq.gif",
+			"groups": [
+				{
+					"name": "🟢Premium (AIS)",
+					"image": "https://stvdoottazasseprd003.blob.core.windows.net/vdo-package-image/b7e07ab8-697f-4598-b2cf-19784d702221/packageImageAttachment/1600x900_img_th.png",
+					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/GREEN%20Premium.m3u",
+					"import": "true"
+				},
+				{
+					"name": "🔴Platinum (TRUE) | More content Soon!",
+					"image": "https://www.truevisions.info/wp-content/uploads/2013/10/platinum.jpg",
+					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/RED%20PLATINNUM.m3u",
+					"import": "true"
+				},
+				{
+					"name": "🌎GOOD TV | สารคดี",
+					"image": "https://yt3.googleusercontent.com/ytc/AIdro_nRpgWZmz095ltpALCuUX02uAJvSS1HdDdq52edkKOcEGU=s900-c-k-c0x00ffffff-no-rj",
+					"url": "",
+					"import": "true"
+				}
+			]
+		},	
+		{
 			"name": "📺ช่องฟรีทีวี [TH🍃]",
 			"author": "skiddy1337",
 			"image": "https://media.tenor.com/9gXQvbM5aIYAAAAM/anime-girl.gif",
@@ -60,31 +85,6 @@
 				{
 					"name": "🎳🏈ช่องกีฬาต่างประเทศ | Soon",
 					"image": "https://gifdb.com/images/high/yumeko-holding-cards-soxu1hp49h3acbwq.gif",
-					"url": "",
-					"import": "true"
-				}
-			]
-		},
-		{
-			"name": "📺ค่ายแดง+ค่ายเขียว",
-			"author": "skiddy1337",
-			"image": "https://pa1.aminoapps.com/7002/e5390f9182acc1018c6ceafdb5127b649df1c0efr1-500-506_hq.gif",
-			"groups": [
-				{
-					"name": "🟢Premium (AIS)",
-					"image": "https://stvdoottazasseprd003.blob.core.windows.net/vdo-package-image/b7e07ab8-697f-4598-b2cf-19784d702221/packageImageAttachment/1600x900_img_th.png",
-					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/GREEN%20Premium.m3u",
-					"import": "true"
-				},
-				{
-					"name": "🔴Platinum (TRUE) | More content Soon!",
-					"image": "https://www.truevisions.info/wp-content/uploads/2013/10/platinum.jpg",
-					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/RED%20PLATINNUM.m3u",
-					"import": "true"
-				},
-				{
-					"name": "🌎GOOD TV | สารคดี",
-					"image": "https://yt3.googleusercontent.com/ytc/AIdro_nRpgWZmz095ltpALCuUX02uAJvSS1HdDdq52edkKOcEGU=s900-c-k-c0x00ffffff-no-rj",
 					"url": "",
 					"import": "true"
 				}

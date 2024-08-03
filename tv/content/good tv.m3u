@@ -1,0 +1,31 @@
+{
+    "name": "🌎GOOD TV",
+    "author": "skiddy1337",
+    "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
+    "stations": [
+    {
+      "name": "สำรวจโลก",
+      "image": "https://dookeela.live//uploads/1705536821.png",
+      "url": "https://dookeela.live/live-tv/samrujlok",
+      "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Animal Show",
+        "image": "https://dookeela.live//uploads/1705537126.png",
+        "url": "https://dookeela.live/live-tv/animalshow",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "My Sci",
+        "image": "https://dookeela.live//uploads/1705536991.png",
+        "url": "https://dookeela.live/live-tv/mysci",
+        "referer": "https://dookeela.live/"
+    },
+    {
+     "name": "More content Soon!",
+     "image": "",
+     "url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
+    }
+    ]
+   }
+   

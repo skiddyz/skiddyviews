@@ -71,15 +71,15 @@
 			"image": "https://pa1.aminoapps.com/7002/e5390f9182acc1018c6ceafdb5127b649df1c0efr1-500-506_hq.gif",
 			"groups": [
 				{
-					"name": "🟢Premium (AIS) | Soon",
+					"name": "🟢Premium",
 					"image": "https://stvdoottazasseprd003.blob.core.windows.net/vdo-package-image/b7e07ab8-697f-4598-b2cf-19784d702221/packageImageAttachment/1600x900_img_th.png",
 					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/GREEN%20Premium.m3u",
 					"import": "true"
 				},
 				{
-					"name": "🔴Platinum (TRUE) | Soon",
+					"name": "🔴Platinum | More content Soon",
 					"image": "https://www.truevisions.info/wp-content/uploads/2013/10/platinum.jpg",
-					"url": "",
+					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/RED%20PLATINNUM.m3u",
 					"import": "true"
 				},
 				{

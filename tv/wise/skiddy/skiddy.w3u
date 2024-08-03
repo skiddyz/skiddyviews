@@ -91,14 +91,26 @@
 			]
 		},
 		{
-			"name": "📺รายการออนไลน์",
+			"name": "📺รายการออนไลน์ [ปิดปรับปรุง]",
 			"author": "skiddy1337",
 			"image": "https://github.com/skiddyz/skiddyviews/blob/main/tv/Assets/logo/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.png?raw=true",
 			"groups": [
 				{
-					"name": "🧠🦾Nanake555 | อย่าหาว่าน้าสอน",
+					"name": "[ปิดปรับปรุง]🧠🦾Nanake555 | อย่าหาว่าน้าสอน",
 					"image": "https://scontent.futp1-1.fna.fbcdn.net/v/t1.6435-9/187854350_325709052250345_6884219665310269594_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_eui2=AeHL2CLKTiyy3HhHJYspS9Jgr9QBifeCZkyv1AGJ94JmTBRAuonasT5X_bes0NOw3tQCIfpyylVis5_HB9bBgd79&_nc_ohc=M9lxGGd3f2oQ7kNvgHMfx9-&_nc_ht=scontent.futp1-1.fna&oh=00_AYDFvpzP5DFEotdn-kyb9y3QEstrcVxnqC2-dSJy3s2gvA&oe=66D1C852",
-					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/youtubevideofav/Ya-Ha-Wa-Na-Sorn.m3u",
+					"url": "",
+					"import": "true"
+				},
+				{
+					"name": "[ปิดปรับปรุง]🧠🦾Nanake555 | หงี่เหลาเป่าติ้ว",
+					"image": "https://scontent.futp1-1.fna.fbcdn.net/v/t1.6435-9/187854350_325709052250345_6884219665310269594_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_eui2=AeHL2CLKTiyy3HhHJYspS9Jgr9QBifeCZkyv1AGJ94JmTBRAuonasT5X_bes0NOw3tQCIfpyylVis5_HB9bBgd79&_nc_ohc=M9lxGGd3f2oQ7kNvgHMfx9-&_nc_ht=scontent.futp1-1.fna&oh=00_AYDFvpzP5DFEotdn-kyb9y3QEstrcVxnqC2-dSJy3s2gvA&oe=66D1C852",
+					"url": "",
+					"import": "true"
+				},
+				{
+					"name": "[ปิดปรับปรุง]🧠🦾Nanake555 | คุยต้องรวย",
+					"image": "https://scontent.futp1-1.fna.fbcdn.net/v/t1.6435-9/187854350_325709052250345_6884219665310269594_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_eui2=AeHL2CLKTiyy3HhHJYspS9Jgr9QBifeCZkyv1AGJ94JmTBRAuonasT5X_bes0NOw3tQCIfpyylVis5_HB9bBgd79&_nc_ohc=M9lxGGd3f2oQ7kNvgHMfx9-&_nc_ht=scontent.futp1-1.fna&oh=00_AYDFvpzP5DFEotdn-kyb9y3QEstrcVxnqC2-dSJy3s2gvA&oe=66D1C852",
+					"url": "",
 					"import": "true"
 				}
 			]

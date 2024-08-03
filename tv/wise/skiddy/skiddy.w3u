@@ -97,7 +97,7 @@
 				{
 					"name": "🌎GOOD TV | สารคดี",
 					"image": "https://github.com/skiddyz/skiddyviews/blob/main/tv/Assets/logo/ent/goodtv.png?raw=true",
-					"url": "",
+					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/good%20tv.m3u",
 					"import": "true"
 				}
 			]

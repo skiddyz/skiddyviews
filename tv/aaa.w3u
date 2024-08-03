@@ -1,107 +1,145 @@
 {
-	"name": "SKIDDY'S WISEPLAY [+Japan Channnel]",
-	"author": "skiddy1337",
-	"image": "https://i.pinimg.com/1200x/24/eb/c7/24ebc7943f44a61bccbc0995074f69d6.jpg",
-	"url": "http://gg.gg/skiddywise",
-	"info": "✨สำหรับคนพิเศษ และเสพติดความเป็นญี่ปุ่น",
-	"groups": [
-		{
-			"name": "❗กดก่อน 1 ครั้ง❗",
-			"image": "https://www.icegif.com/wp-content/uploads/2022/04/icegif-521.gif",
-			"url": "http://gg.gg/skiddywise"
-		},
-		{
-			"name": "📺ช่องฟรีทีวี [TH🍃]",
-			"author": "skiddy1337",
-			"image": "https://media.tenor.com/9gXQvbM5aIYAAAAM/anime-girl.gif",
-			"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/th-free.m3u"
-		},
-		{
-			"name": "📺ช่องทีวี [JP🌸]",
-			"author": "skiddy1337 x luongz",
-			"image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
-			"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/jp-channel.m3u"
-		},
-		{
-			"name": "🏈SPORTS",
-			"author": "skiddy1337",
-			"image": "https://pa1.aminoapps.com/7002/e5390f9182acc1018c6ceafdb5127b649df1c0efr1-500-506_hq.gif",
-			"groups": [
-				{
-					"name": "⛳🟢Olympic 2024 (AIS)",
-					"image": "https://images.squarespace-cdn.com/content/v1/5ec2f36f2fd0c5570cbedcb7/91351263-16d4-4f6f-84c1-9cf0d59776f0/Screenshot+2024-07-25+at+2.44.37%E2%80%AFPM.png",
-					"url": "https://dl.dropboxusercontent.com/scl/fi/lhn5lqtvrtpz7iugyc2ux/FREE-Olympic-Ais.txt?rlkey=s92tfc0ixmxoezpj25rrs41av&st=sinrg2ao&dl=0",
-					"import": "true"
-				},
-				{
-					"name": "⛳🔴Olympic 2024 (TRUE)",
-					"image": "https://images.squarespace-cdn.com/content/v1/5ec2f36f2fd0c5570cbedcb7/91351263-16d4-4f6f-84c1-9cf0d59776f0/Screenshot+2024-07-25+at+2.44.37%E2%80%AFPM.png",
-					"url": "https://dl.dropboxusercontent.com/scl/fi/sykfia66r4m2r52plndbg/FREE-Olympic-True.txt?rlkey=79vrdky8uxks1h7udzi4fjj0u&st=txgxy990&dl=0",
-					"import": "true"
-				},
-				{
-					"name": "⛳📺Olympic 2024 (FREE-TV)",
-					"image": "https://images.squarespace-cdn.com/content/v1/5ec2f36f2fd0c5570cbedcb7/91351263-16d4-4f6f-84c1-9cf0d59776f0/Screenshot+2024-07-25+at+2.44.37%E2%80%AFPM.png",
-					"url": "https://dl.dropboxusercontent.com/scl/fi/g9b234z34g8ji5rybkefu/FREE-Olympic-Digital.txt?rlkey=41ytd3eiozahrq8v9diwyjgx3&st=hnz4nvuw&dl=0",
-					"import": "true"
-				},
-				{
-					"name": "🔴ค่ายแดง | More Sports channel Soon",
-					"image": "https://yt3.googleusercontent.com/ytc/AIdro_liBmXLzD3xwNVXCfD_9h-O3A7jQRoEGZxgoUT_IREjHw=s900-c-k-c0x00ffffff-no-rj",
-					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/KINGOFSPORT.m3u",
-					"import": "true"
-				},
-				{
-					"name": "🟢ค่ายเขียว",
-					"image": "https://scontent.futp1-2.fna.fbcdn.net/v/t39.30808-6/297605941_193059896447919_1748782420783213282_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEHI35YwCdm0lgUQFk2IjmIDgJDhFqXD60OAkOEWpcPrcFTcP1m_VlDSTADi0_PRAjxmg8B2I20alOJxKxrZIVG&_nc_ohc=aX8WykxVXQoQ7kNvgHTGZ84&_nc_ht=scontent.futp1-2.fna&oh=00_AYDWiOcSBekvO1U71iDoTojrabxPvjU8QFC0uZ_SfN2M1Q&oe=66AEB367",
-					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Green%20Sport.m3u",
-					"import": "true"
-				},
-				{
-					"name": "🎳🏈ช่องกีฬาต่างประเทศ | Soon",
-					"image": "https://gifdb.com/images/high/yumeko-holding-cards-soxu1hp49h3acbwq.gif",
-					"url": "",
-					"import": "true"
-				}
-			]
-		},
-		{
-			"name": "📺ค่ายแดง+ค่ายเขียว",
-			"author": "skiddy1337",
-			"image": "https://pa1.aminoapps.com/7002/e5390f9182acc1018c6ceafdb5127b649df1c0efr1-500-506_hq.gif",
-			"groups": [
-				{
-					"name": "🟢Premium",
-					"image": "https://stvdoottazasseprd003.blob.core.windows.net/vdo-package-image/b7e07ab8-697f-4598-b2cf-19784d702221/packageImageAttachment/1600x900_img_th.png",
-					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/GREEN%20Premium.m3u",
-					"import": "true"
-				},
-				{
-					"name": "🔴Platinum | More content Soon",
-					"image": "https://www.truevisions.info/wp-content/uploads/2013/10/platinum.jpg",
-					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/RED%20PLATINNUM.m3u",
-					"import": "true"
-				},
-				{
-					"name": "🌎GOOD TV | สารคดี",
-					"image": "https://yt3.googleusercontent.com/ytc/AIdro_nRpgWZmz095ltpALCuUX02uAJvSS1HdDdq52edkKOcEGU=s900-c-k-c0x00ffffff-no-rj",
-					"url": "",
-					"import": "true"
-				}
-			]
-		},
-		{
-			"name": "📺Youtube's My fav Contents",
-			"author": "skiddy1337",
-			"image": "https://pa1.aminoapps.com/7002/e5390f9182acc1018c6ceafdb5127b649df1c0efr1-500-506_hq.gif",
-			"groups": [
-				{
-					"name": "🧠🦾Nanake555 | อย่าหาว่าน้าสอน",
-					"image": "https://scontent.futp1-1.fna.fbcdn.net/v/t1.6435-9/187854350_325709052250345_6884219665310269594_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_eui2=AeHL2CLKTiyy3HhHJYspS9Jgr9QBifeCZkyv1AGJ94JmTBRAuonasT5X_bes0NOw3tQCIfpyylVis5_HB9bBgd79&_nc_ohc=M9lxGGd3f2oQ7kNvgHMfx9-&_nc_ht=scontent.futp1-1.fna&oh=00_AYDFvpzP5DFEotdn-kyb9y3QEstrcVxnqC2-dSJy3s2gvA&oe=66D1C852",
-					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/youtubevideofav/Ya-Ha-Wa-Na-Sorn.m3u",
-					"import": "true"
-				},
-			]
-		}
-	]
+    "name": "🔴Platinum",
+    "author": "skiddy1337",
+    "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
+    "stations": [
+    {
+        "name": "True Film 1",
+        "image": "https://dookeela.live//uploads/1720380229.png",
+        "url": "https://dookeela.live/live-tv/truefilm1",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "True Film 2",
+        "image": "https://dookeela.live//uploads/1720723122.png",
+        "url": "https://dookeela.live/live-tv/truefilm2",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "True Movies Hits",
+        "image": "https://dookeela.live//uploads/1719803882.png",
+        "url": "https://dookeela.live/live-tv/truemoviehits",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "True Film Asia",
+        "image": "https://dookeela.live//uploads/1719205705.png",
+        "url": "https://dookeela.live/live-tv/truefilmasia",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "True Asian More",
+        "image": "https://dookeela.live//uploads/1719205850.png",
+        "url": "https://dookeela.live/live-tv/trueasianmore",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "True Thai Film",
+        "image": "https://dookeela.live//uploads/1706539896.png",
+        "url": "https://dookeela.live/live-tv/truethaifilm",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "True X-Zyte",
+        "image": "https://dookeela.live//uploads/1719206155.png",
+        "url": "https://dookeela.live/live-tv/truex-zyte",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "CCM",
+        "image": "https://dookeela.live//uploads/1719803240.png",
+        "url": "https://dookeela.live/live-tv/ccm",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "ROCK Entertainment",
+        "image": "https://dookeela.live//uploads/1718690283.png",
+        "url": "https://dookeela.live/live-tv/rock-entertainment",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "ROCK Action",
+        "image": "https://dookeela.live//uploads/1718690264.png",
+        "url": "https://dookeela.live/live-tv/rock-action",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Warner TV",
+        "image": "https://dookeela.live//uploads/1703832225.png",
+        "url": "https://dookeela.live/live-tv/warnertv",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "AXN",
+        "image": "https://dookeela.live/uploads/1719897010.png",
+        "url": "https://dookeela.live/live-tv/axn",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "TLC",
+        "image": "https://dookeela.live//uploads/1717696038.png",
+        "url": "https://dookeela.live/live-tv/tlc",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Asian Food Network",
+        "image": "https://dookeela.live//uploads/1717696078.png",
+        "url": "https://dookeela.live/live-tv/afn",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Food Network",
+        "image": "https://dookeela.live//uploads/1717696062.png",
+        "url": "https://dookeela.live/live-tv/foodnetwork",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Lifetime",
+        "image": "https://dookeela.live//uploads/1720781589.png",
+        "url": "https://dookeela.live/live-tv/lifetime",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "History Channel",
+        "image": "https://dookeela.live//uploads/1713231372.png",
+        "url": "https://dookeela.live/live-tv/history",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Discovery Asia",
+        "image": "https://dookeela.live//uploads/1706112755.png",
+        "url": "https://dookeela.live/live-tv/discovery-asia",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Discovery Channel",
+        "image": "https://dookeela.live//uploads/1706112738.png",
+        "url": "https://dookeela.live/live-tv/discovery",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Crime + Investigation",
+        "image": "https://dookeela.live//uploads/1714101661.png",
+        "url": "https://dookeela.live/live-tv/crime-investigation",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Love Nature",
+        "image": "https://dookeela.live//uploads/1713508633.png",
+        "url": "https://dookeela.live/live-tv/love-nature-4k",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "BBC Earth",
+        "image": "https://dookeela.live//uploads/1714101191.png",
+        "url": "https://dookeela.live/live-tv/bbc-earth",
+        "referer": "https://dookeela.live/"
+    },
+    {
+     "name": "More content Soon!",
+     "image": "",
+     "url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
+    }
+  ]
 }
+   

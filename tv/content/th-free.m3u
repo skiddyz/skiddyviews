@@ -1,1 +1,39 @@
-#ย้ายไปอยู่ในหมวด TV ออนไลน์เร็วๆนี้
+{
+  "name": "FREE-TV [2 Audio]",
+  "author": "skiddy1337",
+  "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
+  "stations": [
+    {
+      "name": "NBT",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+      "url":"https://aisplay.ais.co.th/portal/live?vid=5f9e908c12008d9caab3cf3b",
+      "referer"	:"https://ais-vidnt.com/",
+      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name": "CH 3",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
+      "url":"https://aisplay.ais.co.th/portal/live?vid=59592e08bf6aee4e3ecce051",
+      "referer"	:"https://ais-vidnt.com/",
+      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name": "THAI PBS",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
+      "url":"https://aisplay.ais.co.th/portal/live?vid=6378ef895b10cf050fd01614",
+      "referer"	:"https://ais-vidnt.com/",
+      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name": "ALTV",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",
+      "url":"https://aisplay.ais.co.th/portal/live?vid=5efdd162fbb0045345ef2b61",
+      "referer"	:"https://ais-vidnt.com/",
+      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+      "playInNatPlayer":"true"
+    }
+  ]
+}

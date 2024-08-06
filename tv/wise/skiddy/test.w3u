@@ -59,7 +59,7 @@
 			"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5.png",
 			"groups": [
 				{
-					"name": "📺ช่องฟรีทีวี",
+					"name": "📺ช่องฟรีทีวี (+ระบบเสียง 2 ภาษา)",
 					"image": "https://github.com/skiddyz/skiddyviews/blob/main/tv/Assets/logo/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5.png?raw=true",
 					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/th-free.m3u",
 					"import": "true"

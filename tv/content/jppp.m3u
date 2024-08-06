@@ -1,0 +1,337 @@
+{
+    "name": "🌎GOOD TV",
+    "author": "skiddy1337",
+    "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
+    "groups": [
+        {
+            "name": "Tokyo",
+            "image": "",
+            "groups": [
+                {
+                    "name": "NHK G",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",
+                    "url": "https://vnpt.nekocdn.xyz/b783a989-9e73-4bce-bfa3-9996a9eaa455.m3u8",
+                    "import": "true"
+                },
+                {
+                    "name": "NHK E",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",
+                    "url": "https://vnpt.nekocdn.xyz/d074504f-ca7a-467e-a67c-a91e69461775.m3u8",
+                    "import": "true"
+                },
+                {
+                    "name": "NTV",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",
+                    "url": "https://vnpt.nekocdn.xyz/427b3914-a2b4-401b-b5ed-706158d73908.m3u8",
+                    "import": "true"
+                },
+                {
+                    "name": "TBS",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",
+                    "url": "https://vnpt.nekocdn.xyz/d90fa53e-51d2-4364-aa9b-480a883a2bfb.m3u8",
+                    "import": "true"
+                },
+                {
+                    "name": "Fuji TV",
+                    "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",
+                    "url": "https://vnpt.nekocdn.xyz/5417ea42-1305-40d2-b318-bcc9552fe3fb.m3u8",
+                    "import": "true"
+                },
+                {
+                    "name": "TV Asahi",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",
+                    "url": "https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8",
+                    "import": "true"
+                },
+                {
+                    "name": "TV Tokyo",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",
+                    "url": "https://vnpt.nekocdn.xyz/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8",
+                    "import": "true"
+                },
+                {
+                   "name": "TOKYO MX1",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",
+                    "url": "https://vnpt.nekocdn.xyz/b9925493-fc55-40fe-b813-07ead8974f3f.m3u8",
+                    "import": "true"
+                }
+            ]
+        },
+        {
+            "name": "Osaka",
+            "image": "",
+            "groups": [
+                {
+                    "name": "NHK G Osaka",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06",
+                    "import": "true"
+                },
+                {
+                    "name": "MBS",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01",
+                    "import": "true"
+                },
+                {
+                    "name": "ABC",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02",
+                    "import": "true"
+                },
+                {
+                    "name": "Kansai TV",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03",
+                    "import": "true"
+                },
+                {
+                    "name": "Yomiuri TV",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04",
+                    "import": "true"
+                },
+                {
+                    "name": "TV Osaka",
+                    "image": "https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05",
+                    "import": "true"
+                },
+                {
+                    "name": "SUN TV",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07",
+                    "import": "true"
+                }
+            ]
+        },
+        {
+            "name": "BS",
+            "image": "",
+            "groups": [
+                {
+                    "name": "NHK BS",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",
+                    "url": "https://vnpt.nekocdn.xyz/9ca1151d-7a96-4c1a-9672-8853124bba85.m3u8",
+                    "import": "true"
+                },
+                {
+                    "name": "BS11",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",
+                    "url": "https://vnpt.nekocdn.xyz/11644528-009c-47e3-a444-16da17f3f88f.m3u8",
+                    "import": "true"
+                },
+                {
+                    "name": "Animax",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",
+                    "url": "https://vnpt.nekocdn.xyz/68ea67df-d4e1-44cb-bdb9-179dd01b7db4.m3u8",
+                    "import": "true"
+                },
+                {
+                    "name": "WOWOW Prime",
+                    "image": "https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png",
+                    "url": "https://vnpt.nekocdn.xyz/c7f9407a-6fcb-46e2-a649-98c15ffe0a6e.m3u8",
+                    "import": "true"
+                }
+            ]
+        },
+        {
+            "name": "CS",
+            "image": "",
+            "groups": [
+                {
+                    "name": "AT-X",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",
+                    "url": "https://vnpt.nekocdn.xyz/9113e313-5c50-41dd-a4a0-fda78b64580f.m3u8",
+                    "import": "true"
+                },
+                {
+                    "name": "MTV",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png",
+                    "url": "https://vnpt.nekocdn.xyz/4b5031a9-04eb-4320-a708-bad2ac658205.m3u8",
+                    "import": "true"
+                },
+                {
+                    "name": "Space Shower TV (vthanh)",
+                    "image": "https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png",
+                    "url": "https://vnpt.nekocdn.xyz/bb127794-ed6f-44cb-9a77-3f1e63c0dbd9.m3u8",
+                    "import": "true"
+                },
+                {
+                    "name": "Jidaigeki Senmon",
+                    "image": "https://www.lyngsat.com/logo/tv/jj/jidaigeki.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04",
+                    "import": "true"
+                },
+                {
+                    "name": "Toei Channel",
+                    "image": "https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27",
+                    "import": "true"
+                },
+                {
+                    "name": "Eisei Gekijo",
+                    "image": "https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22",
+                    "import": "true"
+                },
+                {
+                    "name": "Family Gekijyo",
+                    "image": "https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20",
+                    "import": "true"
+                },
+                {
+                    "name": "Movie Plus",
+                    "image": "https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14",
+                    "import": "true"
+                },
+                {
+                    "name": "Home Drama Channel",
+                    "image": "https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05",
+                    "import": "true"
+                },
+                {
+                    "name": "Tabi Channel",
+                    "image": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12",
+                    "import": "true"
+                },
+                {
+                    "name": "Fuji TV Next",
+                    "image": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26",
+                    "import": "true"
+                },
+                {
+                    "name": "Sky A",
+                    "image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01",
+                    "import": "true"
+                },
+                {
+                    "name": "GAORA SPORTS",
+                    "image": "https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17",
+                    "import": "true"
+                },
+                {
+                    "name": "Golf Network",
+                    "image": "https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03",
+                    "import": "true"
+                },
+                {
+                    "name": "Nittele G+",
+                    "image": "https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02",
+                    "import": "true"
+                },
+                {
+                    "name": "Mondo TV",
+                    "image": "https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21",
+                    "import": "true"
+                },
+                {
+                    "name": "Channel Ginga",
+                    "image": "https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29",
+                    "import": "true"
+                },
+                {
+                    "name": "Space Shower TV",
+                    "image": "https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26",
+                    "import": "true"
+                },
+                {
+                    "name": "Music Japan TV",
+                    "image": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
+                    "import": "true"
+                },
+                {
+                    "name": "Kayo Pops",
+                    "image": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13",
+                    "import": "true"
+                },
+                {
+                    "name": "MTV (2)",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
+                    "import": "true"
+                },
+                {
+                    "name": "LaLa TV",
+                    "image": "https://www.lyngsat.com/logo/tv/ll/lala_tv.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19",
+                    "import": "true"
+                },
+                {
+                    "name": "Takarazuka Sky Stage",
+                    "image": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28",
+                    "import": "true"
+                },
+                {
+                    "name": "Kids Station TV",
+                    "image": "https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07",
+                    "import": "true"
+                },
+                {
+                    "name": "Cartoon Network",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25",
+                    "import": "true"
+                },
+                {
+                    "name": "Disney Junior",
+                    "image": "https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23",
+                    "import": "true"
+                },
+                {
+                    "name": "Discovery Channel",
+                    "image": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08",
+                    "import": "true"
+                },
+                {
+                    "name": "National Geographic",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10",
+                    "import": "true"
+                },
+                {
+                    "name": "Animal Planet",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24",
+                    "import": "true"
+                },
+                {
+                    "name": "History Channel",
+                    "image": "https://www.lyngsat-logo.com/logo/tv/hh/history_us.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09",
+                    "import": "true"
+                },
+                {
+                    "name": "CNNj",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNNj_channel_logo.svg/2048px-CNNj_channel_logo.svg.png",
+                    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16",
+                    "import": "true"
+                },
+                {
+                    "name": "QVC",
+                    "image": "https://i.imgur.com/xWSzQ34.png",
+                    "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
+                    "import": "true"
+                }
+            ]
+        }
+    ]
+}

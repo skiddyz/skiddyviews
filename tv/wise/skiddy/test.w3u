@@ -67,8 +67,32 @@
 				{
 					"name": "📺🌸ช่องญี่ปุ่น",
 					"image": "https://github.com/skiddyz/skiddyviews/blob/main/tv/Assets/logo/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99.png?raw=true",
-					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/jp-channel.m3u",
-					"import": "true"
+					"groups": [
+						{
+							"name": "Tokyo",
+							"image": "",
+							"url": "https://github.com/skiddyz/skiddyviews/blob/main/tv/content/jp-tv-channel/tv_tokyo.m3u",
+							"import": "true"
+						},
+						{
+							"name": "Osaka",
+							"image": "",
+							"url": "https://github.com/skiddyz/skiddyviews/blob/main/tv/content/jp-tv-channel/tv_Osaka.m3u",
+							"import": "true"
+						},
+						{
+							"name": "BS",
+							"image": "",
+							"url": "https://github.com/skiddyz/skiddyviews/blob/main/tv/content/jp-tv-channel/tv_BS.m3u",
+							"import": "true"
+						},
+						{
+							"name": "CS",
+							"image": "",
+							"url": "https://github.com/skiddyz/skiddyviews/blob/main/tv/content/jp-tv-channel/tv_CS.m3u",
+							"import": "true"
+						}
+					]
 				},
 				{
 					"name": "🟢Premium (AIS)",

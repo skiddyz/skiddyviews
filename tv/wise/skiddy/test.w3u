@@ -70,25 +70,25 @@
 					"groups": [
 						{
 							"name": "🇯🇵📺Tokyo",
-							"image": "",
+							"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/tokyo.png",
 							"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/jp-tv-channel/tv_tokyo.m3u",
 							"import": "true"
 						},
 						{
 							"name": "🇯🇵📺Osaka",
-							"image": "",
+							"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/osaka.png",
 							"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/jp-tv-channel/tv_Osaka.m3u",
 							"import": "true"
 						},
 						{
 							"name": "🇯🇵📺BS",
-							"image": "",
+							"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/BS.png",
 							"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/jp-tv-channel/tv_BS.m3u",
 							"import": "true"
 						},
 						{
 							"name": "🇯🇵📺CS",
-							"image": "",
+							"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/CS.png",
 							"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/jp-tv-channel/tv_CS.m3u",
 							"import": "true"
 						}

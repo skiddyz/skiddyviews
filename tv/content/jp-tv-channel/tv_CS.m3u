@@ -1,0 +1,199 @@
+{
+    "name": "🌸CS",
+    "author": "skiddy1337",
+    "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
+    "stations": [
+    {
+        "name": "AT-X",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",
+        "url": "https://vnpt.nekocdn.xyz/9113e313-5c50-41dd-a4a0-fda78b64580f.m3u8",
+        "import": "true"
+    },
+    {
+        "name": "MTV",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png",
+        "url": "https://vnpt.nekocdn.xyz/4b5031a9-04eb-4320-a708-bad2ac658205.m3u8",
+        "import": "true"
+    },
+    {
+        "name": "Space Shower TV (vthanh)",
+        "image": "https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png",
+        "url": "https://vnpt.nekocdn.xyz/bb127794-ed6f-44cb-9a77-3f1e63c0dbd9.m3u8",
+        "import": "true"
+    },
+    {
+        "name": "Jidaigeki Senmon",
+        "image": "https://www.lyngsat.com/logo/tv/jj/jidaigeki.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04",
+        "import": "true"
+    },
+    {
+        "name": "Toei Channel",
+        "image": "https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27",
+        "import": "true"
+    },
+    {
+        "name": "Eisei Gekijo",
+        "image": "https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22",
+        "import": "true"
+    },
+    {
+        "name": "Family Gekijyo",
+        "image": "https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20",
+        "import": "true"
+    },
+    {
+        "name": "Movie Plus",
+        "image": "https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14",
+        "import": "true"
+    },
+    {
+        "name": "Home Drama Channel",
+        "image": "https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05",
+        "import": "true"
+    },
+    {
+        "name": "Tabi Channel",
+        "image": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12",
+        "import": "true"
+    },
+    {
+        "name": "Fuji TV Next",
+        "image": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26",
+        "import": "true"
+    },
+    {
+        "name": "Sky A",
+        "image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01",
+        "import": "true"
+    },
+    {
+        "name": "GAORA SPORTS",
+        "image": "https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17",
+        "import": "true"
+    },
+    {
+        "name": "Golf Network",
+        "image": "https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03",
+        "import": "true"
+    },
+    {
+        "name": "Nittele G+",
+        "image": "https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02",
+        "import": "true"
+    },
+    {
+        "name": "Mondo TV",
+        "image": "https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21",
+        "import": "true"
+    },
+    {
+        "name": "Channel Ginga",
+        "image": "https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29",
+        "import": "true"
+    },
+    {
+        "name": "Space Shower TV",
+        "image": "https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26",
+        "import": "true"
+    },
+    {
+        "name": "Music Japan TV",
+        "image": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
+        "import": "true"
+    },
+    {
+        "name": "Kayo Pops",
+        "image": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13",
+        "import": "true"
+    },
+    {
+        "name": "MTV (2)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
+        "import": "true"
+    },
+    {
+        "name": "LaLa TV",
+        "image": "https://www.lyngsat.com/logo/tv/ll/lala_tv.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19",
+        "import": "true"
+    },
+    {
+        "name": "Takarazuka Sky Stage",
+        "image": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28",
+        "import": "true"
+    },
+    {
+        "name": "Kids Station TV",
+        "image": "https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07",
+        "import": "true"
+    },
+    {
+        "name": "Cartoon Network",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25",
+        "import": "true"
+    },
+    {
+        "name": "Disney Junior",
+        "image": "https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23",
+        "import": "true"
+    },
+    {
+        "name": "Discovery Channel",
+        "image": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08",
+        "import": "true"
+    },
+    {
+        "name": "National Geographic",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10",
+        "import": "true"
+    },
+    {
+        "name": "Animal Planet",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24",
+        "import": "true"
+    },
+    {
+        "name": "History Channel",
+        "image": "https://www.lyngsat-logo.com/logo/tv/hh/history_us.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09",
+        "import": "true"
+    },
+    {
+        "name": "CNNj",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNNj_channel_logo.svg/2048px-CNNj_channel_logo.svg.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16",
+        "import": "true"
+    },
+    {
+        "name": "QVC",
+        "image": "https://i.imgur.com/xWSzQ34.png",
+        "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
+        "import": "true"
+    }
+  ]
+}

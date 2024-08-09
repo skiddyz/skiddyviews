@@ -22,6 +22,71 @@
         "name": "WOWOW Prime",
         "image": "https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png",
         "url": "https://vnpt.nekocdn.xyz/c7f9407a-6fcb-46e2-a649-98c15ffe0a6e.m3u8"
+    },
+    {
+        "name": "WOWOW Live",
+        "image": "https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20"
+    },
+    {
+        "name": "WOWOW Cinema",
+        "image": "https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07"
+    },
+    {
+        "name": "Star Channel 1",
+        "image": "https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08"
+    },
+    {
+        "name": "BS Animax",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15"
+    },
+    {
+        "name": "J SPORTS 1",
+        "image": "https://www.jsports.co.jp/img/icon/ch1.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18"
+    },
+    {
+        "name": "J SPORTS 2",
+        "image": "https://www.jsports.co.jp/img/icon/ch2.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19"
+    },
+    {
+        "name": "J SPORTS 3",
+        "image": "https://www.jsports.co.jp/img/icon/ch3.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21"
+    },
+    {
+        "name": "J SPORTS 4",
+        "image": "https://www.jsports.co.jp/img/icon/ch4.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22"
+    },
+    {
+        "name": "Green Channel",
+        "image": "https://www.lyngsat.com/logo/tv/gg/green_channel_jp.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14"
+    },
+    {
+        "name": "BS Japan Movie Channel",
+        "image": "https://www.starcat.co.jp/ch/upload/channel/3/nihon-eiga_logo.jpg",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23"
+    },
+    {
+        "name": "Disney Channel",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24"
+    },
+    {
+        "name": "Fishing Vision",
+        "image": "https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25"
+    },
+    {
+        "name": "BS Shochiku Tokyu",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/BS_Shochiku_Tokyu_logo.jpg",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31"
     }
   ]
 }

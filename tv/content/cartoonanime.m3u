@@ -1,0 +1,105 @@
+{
+    "name": "🧸ช่องอนิเมะ / การ์ตูน",
+    "author": "skiddy1337",
+    "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
+    "stations": [
+    {
+        "name": "[TH]Boomerang",
+        "image": "https://dookeela.live/uploads/1705504202.png",
+        "url": "https://dookeela.live/live-tv/boomerang",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[TH]Cartoon Club HD",
+        "image": "https://dookeela.live/uploads/1705504043.png",
+        "url": "https://dookeela.live/live-tv/cartoonclub",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[TH]Cartoon Network",
+        "image": "https://dookeela.live/uploads/1708344243.png",
+        "url": "https://dookeela.live/live-tv/cartoon-network",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[TH]Cartoonito",
+        "image": "https://dookeela.live/uploads/1704039063.png",
+        "url": "https://dookeela.live/live-tv/cartoonito",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[TH]DreamWorks",
+        "image": "https://dookeela.live/uploads/1723200736.png",
+        "url": "https://dookeela.live/live-tv/dreamworks",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[TH]Nick Jr.",
+        "image": "https://dookeela.live/uploads/1708344362.png",
+        "url": "https://dookeela.live/live-tv/nickjr",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[TH]Nickelodeon",
+        "image": "https://dookeela.live/uploads/1708344306.png",
+        "url": "https://dookeela.live/live-tv/nickelodeon",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[TH]True Spark Play",
+        "image": "https://dookeela.live/uploads/1720723541.png",
+        "url": "https://dookeela.live/live-tv/truesparkplay",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[GER]Nick Toon",
+        "image": "https://dookeela.live/uploads/1713282303.png",
+        "url": "https://dookeela.live/live-tv/nicktoons",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[ENG]Disney Junior",
+        "image": "https://dookeela.live/uploads/1716362497.png",
+        "url": "https://dookeela.live/live-tv/disney-junior",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[ENG]Disney Channel",
+        "image": "https://dookeela.live/uploads/1716361978.png",
+        "url": "https://dookeela.live/live-tv/disney-channel",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[ENG]Disney XD",
+        "image": "https://dookeela.live/uploads/1716362753.png",
+        "url": "https://dookeela.live/live-tv/disneyxd",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[JP]Animax",
+        "image": "https://dookeela.live/uploads/1704038567.png",
+        "url": "https://vnpt.nekocdn.xyz/68ea67df-d4e1-44cb-bdb9-179dd01b7db4.m3u8"
+    }, 
+    {
+        "name": "[JP]Disney Junior - CS",
+        "image": "https://dookeela.live/uploads/1716362497.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23"
+    },
+    {
+        "name": "[JP]Disney Channel - BS",
+        "image": "https://dookeela.live/uploads/1716361978.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24"
+    },
+    {
+        "name": "[JP]Cartoon Network",
+        "image": "https://dookeela.live/uploads/1708344243.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25"
+    },
+    {
+      "name": "More content Soon!",
+      "image": "",
+      "url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
+    }
+  ]
+}
+  

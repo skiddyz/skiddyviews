@@ -111,6 +111,12 @@
 					"image": "https://github.com/skiddyz/skiddyviews/blob/main/tv/Assets/logo/ent/goodtv.png?raw=true",
 					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/good%20tv.m3u",
 					"import": "true"
+				},
+				{
+					"name": "🧸ช่องอนิเมะ / การ์ตูน",
+					"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/annctr.png",
+					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/cartoonanime.m3u",
+					"import": "true"
 				}
 			]
 		},

@@ -109,7 +109,7 @@
 			"groups": [
 				{
 					"name": "🎎🇯🇵ซีรีย์ญี่ปุ่น (รีเควสได้) | พากย์ไทย/ซับไทย",
-					"image": "",
+					"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/jp%20series.png",
 					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/series/jp-thai.m3u",
 					"import": "true"
 				}

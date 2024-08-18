@@ -22,6 +22,12 @@
         "referer": "https://dookeela.live/"
     },
     {
+        "name": "Thainess",
+        "image": "https://dookeela.live//uploads/1705536991.png",
+        "url": "https://vlb.thaicom.io/v2/Thainess/playlist.m3u8",
+        "referer": "https://vlb.thaicom.io/v2/"
+    },
+    {
      "name": "More content Soon!",
      "image": "",
      "url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"

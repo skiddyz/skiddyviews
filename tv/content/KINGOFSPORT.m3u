@@ -78,26 +78,50 @@
     {
       "name": " True Ball Thai 1",
       "image": "https://dookeela.live//uploads/1691371195.png",
-      "url": "https://dookeela.live/live-tv/trueballthai1",
-      "referer": "https://dookeela.live/"
+      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/th-sport/ballthai1/chunks.m3u8",
+      "referer":"https://dooball2you.com/"
     },
     {
       "name": " True Ball Thai 2",
       "image": "https://dookeela.live//uploads/1691444816.png",
-      "url": "https://dookeela.live/live-tv/trueballthai2",
-      "referer": "https://dookeela.live/"
+      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/th-sport/ballthai2/chunks.m3u8",
+      "referer":"https://dooball2you.com/"
     },
     {
       "name": " True Ball Thai 3",
       "image": "https://dookeela.live//uploads/1691444826.png",
-      "url": "https://dookeela.live/live-tv/trueballthai3",
-      "referer": "https://dookeela.live/"
+      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/th-sport/ballthai3/chunks.m3u8",
+      "referer":"https://dooball2you.com/"
     },
     {
       "name": " True Ball Thai 4",
       "image": "https://dookeela.live//uploads/1707502708.png",
-      "url": "https://dookeela.live/live-tv/trueballthai4",
-      "referer": "https://dookeela.live/"
+      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/th-sport/ballthai4/chunks.m3u8",
+      "referer":"https://dooball2you.com/"
+    },
+    {
+      "name": " True Ball Thai 5",
+      "image": "https://dookeela.live//uploads/1707502708.png",
+      "url": "https://cdn1.googlecdn.live/dooballx/trueballthai5/chunks.m3u8",
+      "referer":"https://dooballx.com/"
+    },
+    {
+      "name": " True Ball Thai 6",
+      "image": "https://dookeela.live//uploads/1707502708.png",
+      "url": "https://cdn1.googlecdn.live/dooballx/trueballthai6/chunks.m3u8",
+      "referer":"https://dooballx.com/"
+    },
+    {
+      "name": " True Ball Thai 7",
+      "image": "https://dookeela.live//uploads/1707502708.png",
+      "url": "https://cdn1.googlecdn.live/dooballx/trueballthai7/chunks.m3u8",
+      "referer":"https://dooballx.com/"
+    },
+    {
+      "name": " True Ball Thai 8",
+      "image": "https://dookeela.live//uploads/1707502708.png",
+      "url": "https://cdn1.googlecdn.live/dooballx/trueballthai8/chunks.m3u8",
+      "referer":"https://dooballx.com/"
     },
     {
       "name": "TrueID Sports 1",

@@ -48,77 +48,80 @@
     {
       "name": "True Premier Football 1",
       "image": "https://dookeela.live/uploads/1664499665.png",
-      "url": "https://dookeela.live/live-tv/epl1_sd",
-      "referer": "https://dookeela.live/"
+      "url": "https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8"
     },
     {
       "name": "True Premier Football 2",
       "image": "https://dookeela.live/uploads/1664499673.png",
-      "url": "https://dookeela.live/live-tv/epl2",
-      "referer": "https://dookeela.live/"
+      "url": "https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8"
     },
     {
       "name": "True Premier Football 3",
       "image": "https://dookeela.live/uploads/1664499681.png",
-      "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-3/playlist.m3u8",
-      "referer": "https://doolive4k.tv/"
+      "url": "https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8"
     },
     {
       "name": "True Premier Football 4",
       "image": "https://dookeela.live/uploads/1664499692.png",
-      "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-4/playlist.m3u8",
-      "referer": "https://doolive4k.tv/"
+      "url": "https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8"
     },
     {
       "name": "True Premier Football 5",
       "image": "https://dookeela.live/uploads/1664499700.png",
-      "url": "https://dolive.thaim3u.com:443/doolive4k-tv/siamsport-5/playlist.m3u8",
-      "referer": "https://doolive4k.tv/"
+      "url": "https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8"
     },
     {
       "name": " True Ball Thai 1",
+      "info": "เปิดเฉพาะตอนแข่ง",
       "image": "https://dookeela.live//uploads/1691371195.png",
       "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/th-sport/ballthai1/chunks.m3u8",
       "referer":"https://dooball2you.com/"
     },
     {
       "name": " True Ball Thai 2",
+      "info": "เปิดเฉพาะตอนแข่ง",
       "image": "https://dookeela.live//uploads/1691444816.png",
       "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/th-sport/ballthai2/chunks.m3u8",
       "referer":"https://dooball2you.com/"
     },
     {
       "name": " True Ball Thai 3",
+      "info": "เปิดเฉพาะตอนแข่ง",
       "image": "https://dookeela.live//uploads/1691444826.png",
       "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/th-sport/ballthai3/chunks.m3u8",
       "referer":"https://dooball2you.com/"
     },
     {
       "name": " True Ball Thai 4",
+      "info": "เปิดเฉพาะตอนแข่ง",
       "image": "https://dookeela.live//uploads/1707502708.png",
       "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/th-sport/ballthai4/chunks.m3u8",
       "referer":"https://dooball2you.com/"
     },
     {
       "name": " True Ball Thai 5",
+      "info": "เปิดเฉพาะตอนแข่ง",
       "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/tbt/tbt5.png",
       "url": "https://cdn1.googlecdn.live/dooballx/trueballthai5/chunks.m3u8",
       "referer":"https://dooballx.com/"
     },
     {
       "name": " True Ball Thai 6",
+      "info": "เปิดเฉพาะตอนแข่ง",
       "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/tbt/tbt6.png",
       "url": "https://cdn1.googlecdn.live/dooballx/trueballthai6/chunks.m3u8",
       "referer":"https://dooballx.com/"
     },
     {
       "name": " True Ball Thai 7",
+      "info": "เปิดเฉพาะตอนแข่ง",
       "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/tbt/tbt7.png",
       "url": "https://cdn1.googlecdn.live/dooballx/trueballthai7/chunks.m3u8",
       "referer":"https://dooballx.com/"
     },
     {
       "name": " True Ball Thai 8",
+      "info": "เปิดเฉพาะตอนแข่ง",
       "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/tbt/tbt8.png",
       "url": "https://cdn1.googlecdn.live/dooballx/trueballthai8/chunks.m3u8",
       "referer":"https://dooballx.com/"

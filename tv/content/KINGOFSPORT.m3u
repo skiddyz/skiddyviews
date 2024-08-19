@@ -48,27 +48,32 @@
     {
       "name": "True Premier Football 1",
       "image": "https://dookeela.live/uploads/1664499665.png",
-      "url": "https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8"
+      "url": "https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8",
+      "referer": "https://freetvdd.com/"
     },
     {
       "name": "True Premier Football 2",
       "image": "https://dookeela.live/uploads/1664499673.png",
-      "url": "https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8"
+      "url": "https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8",
+      "referer": "https://freetvdd.com/"
     },
     {
       "name": "True Premier Football 3",
       "image": "https://dookeela.live/uploads/1664499681.png",
-      "url": "https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8"
+      "url": "https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8",
+      "referer": "https://freetvdd.com/"
     },
     {
       "name": "True Premier Football 4",
       "image": "https://dookeela.live/uploads/1664499692.png",
-      "url": "https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8"
+      "url": "https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8",
+      "referer": "https://freetvdd.com/"
     },
     {
       "name": "True Premier Football 5",
       "image": "https://dookeela.live/uploads/1664499700.png",
-      "url": "https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8"
+      "url": "https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8",
+      "referer": "https://freetvdd.com/"
     },
     {
       "name": " True Ball Thai 1",

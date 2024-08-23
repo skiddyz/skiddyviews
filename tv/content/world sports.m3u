@@ -82,10 +82,22 @@
         "referer": "https://dookeela.live/"
     },
     {
+        "name": "NFL NOW",
+        "image": "https://rentapi.blackboxsys.net/images/png/us-nflnow.png",
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-nflnow&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
+    },
+    {
         "name": " NFL Network",
         "image": "https://dookeela.live//uploads/1694909293.png",
         "url": "https://dookeela.live/live-tv/nfl",
         "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "NHL Network",
+        "image": "https://rentapi.blackboxsys.net/images/png/us-nhl.png",
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-nhl&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
     },
     {
         "name": " MLB",
@@ -96,14 +108,26 @@
     {
         "name": " Astro Arena",
         "image": "https://dookeela.live//uploads/1697812603.png",
-        "url": "https://dookeela.live/live-tv/astroarena",
-        "referer": "https://dookeela.live/"
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=my-arena1&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
     },
     {
         "name": " Astro Arena 2",
         "image": "https://dookeela.live//uploads/1719768111.png",
-        "url": "https://dookeela.live/live-tv/astroarena2",
-        "referer": "https://dookeela.live/"
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=my-arena2&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
+    },
+    {
+       "name": " Astro Arena Bola",
+       "image": "https://dookeela.live//uploads/1700012376.png",
+       "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=my-arenabola1&api_key=xjA7kf1WXmzK",
+       "referer": "https://dooball66x.com/"
+    },
+    {
+       "name": " Astro Arena Bola 2",
+       "image": "https://dookeela.live//uploads/1698351468.png",
+       "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=my-arenabola2&api_key=xjA7kf1WXmzK",
+       "referer": "https://dooball66x.com/"
     },
     {
         "name": " ASTRO CRICKET",
@@ -166,13 +190,13 @@
         "referer": "https://dookeela.live/"
     },
     {
-        "name": " ESPN2 [USA]",
+        "name": " ESPN 2 [USA]",
         "image": "https://dookeela.live//uploads/1698197356.png",
         "url": "https://dookeela.live/live-tv/espn2usa",
         "referer": "https://dookeela.live/"
     },
     {
-        "name": " ESPN3 [USA]",
+        "name": " ESPN 3 [USA]",
         "image": "https://dookeela.live//uploads/1711310704.png",
         "url": "https://dookeela.live/live-tv/espn3usa",
         "referer": "https://dookeela.live/"
@@ -214,9 +238,136 @@
         "referer": "https://dookeela.live/"
     },
     {
-      "name": "More content Soon!",
-      "image": "",
-      "url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
+        "name": "NHL Network",
+        "image": "https://rentapi.blackboxsys.net/images/png/us-nhl.png",
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-nhl&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
+    },
+    {
+        "name": "NBC SPORTS",
+        "image": "https://rentapi.blackboxsys.net/images/png/us-nbcsports.png",
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-nbcsports&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
+    },
+    {
+        "name": "NBC GOLF",
+        "image": "https://rentapi.blackboxsys.net/images/png/us-nbcgolf.png",
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-nbcgolf&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
+    },
+    {
+        "name": "NBC SPORT BAYAREA",
+        "image": "https://rentapi.blackboxsys.net/images/png/us-nbcsport-bayarea.png",
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-nbcsport-bayarea&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
+    },
+    {
+        "name": "NBC SPORT BOSTON",
+        "image": "https://rentapi.blackboxsys.net/images/png/us-nbcsport-boston.png",
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-nbcsport-boston&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
+    },
+    {
+        "name": "NBC SPORT CALIFORNIA",
+        "image": "https://rentapi.blackboxsys.net/images/png/us-nbcsport-california.png",
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-nbcsport-california&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
+    },
+    {
+       "name": "NBC SPORT NORTHWEST",
+       "image": "https://rentapi.blackboxsys.net/images/png/us-nbcsport-northwest.png",
+       "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-nbcsport-northwest&api_key=xjA7kf1WXmzK",
+       "referer": "https://dooball66x.com/"
+    },
+    {
+        "name": "NBC SPORT PHILADELPHIAPLUS",
+        "image": "https://rentapi.blackboxsys.net/images/png/us-nbcsport-philadelphiaplus.png",
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-nbcsport-philadelphiaplus&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
+    },
+    {
+        "name": "TNT SPORTS 1",
+        "image": "https://rentapi.blackboxsys.net/images/png/uk-btsport1hd.png",
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=uk-btsport1hd&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
+    },
+    {
+        "name": "TNT SPORTS 2",
+        "image": "https://rentapi.blackboxsys.net/images/png/uk-btsport2hd.png",
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=uk-btsport2hd&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
+    },
+    {
+        "name": "TNT SPORTS 3",
+        "image": "https://rentapi.blackboxsys.net/images/png/uk-btsport3hd.png",
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=uk-btsport3hd&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
+    },
+    {
+        "name": "BT SPORT EXTRA 1",
+        "image": "https://rentapi.blackboxsys.net/images/png/uk-btsportextra1.png",
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=uk-btsportextra1&api_key=xjA7kf1WXmzK",
+        "referer": "https://dooball66x.com/"
+    },
+    {
+       "name": "BT SPORT EXTRA 2",
+       "image": "https://rentapi.blackboxsys.net/images/png/uk-btsportextra2.png",
+       "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=uk-btsportextra2&api_key=xjA7kf1WXmzK",
+       "referer": "https://dooball66x.com/"
+    },
+    {
+       "name": "BT SPORT EXTRA 3",
+       "image": "https://rentapi.blackboxsys.net/images/png/uk-btsportextra3.png",
+       "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=uk-btsportextra3&api_key=xjA7kf1WXmzK",
+       "referer": "https://dooball66x.com/"
+    },
+    {
+       "name": "BT SPORT EXTRA 4",
+       "image": "https://rentapi.blackboxsys.net/images/png/uk-btsportextra4.png",
+       "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=uk-btsportextra4&api_key=xjA7kf1WXmzK",
+       "referer": "https://dooball66x.com/"
+    },
+    {
+       "name": "BT SPORT EXTRA 5",
+       "image": "https://rentapi.blackboxsys.net/images/png/uk-btsportextra5.png",
+       "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=uk-btsportextra5&api_key=xjA7kf1WXmzK",
+       "referer": "https://dooball66x.com/"
+    },
+    {
+       "name": "EURO SPORT 1",
+       "image": "https://rentapi.blackboxsys.net/images/png/uk-eurosport.png",
+       "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=uk-eurosport&api_key=xjA7kf1WXmzK",
+       "referer": "https://dooball66x.com/"
+    },
+    {
+       "name": "EURO SPORT 2",
+       "image": "https://rentapi.blackboxsys.net/images/png/uk-eurosport2.png",
+       "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=uk-eurosport2&api_key=xjA7kf1WXmzK",
+       "referer": "https://dooball66x.com/"
+    },
+    {
+       "name": "PREMIER SPORTS ๅ",
+       "image": "https://rentapi.blackboxsys.net/images/png/uk-premiersports.png",
+       "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=uk-premiersports&api_key=xjA7kf1WXmzK",
+       "referer": "https://dooball66x.com/"
+    },
+    {
+       "name": "PREMIER SPORTS 2",
+       "image": "https://rentapi.blackboxsys.net/images/png/uk-premiersports2.png",
+       "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=uk-premiersports2&api_key=xjA7kf1WXmzK",
+       "referer": "https://dooball66x.com/"
+    },
+    {
+       "name": "WWE",
+       "image": "https://rentapi.blackboxsys.net/images/png/us-wwe.png",
+       "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=us-wwe&api_key=xjA7kf1WXmzK",
+       "referer": "https://dooball66x.com/"
+    },
+    {
+       "name": "GOLF Channel",
+       "image": "https://rentapi.blackboxsys.net/images/png/hd-golfeng.png",
+       "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-golfeng&api_key=xjA7kf1WXmzK",
+       "referer": "https://dooball66x.com/"
     }
   ]
 }

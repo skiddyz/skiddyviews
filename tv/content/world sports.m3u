@@ -212,6 +212,11 @@
         "image": "https://dookeela.live//uploads/1665106261.png",
         "url": "https://dookeela.live/live-tv/mutv",
         "referer": "https://dookeela.live/"
+    },
+    {
+      "name": "More content Soon!",
+      "image": "",
+      "url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
     }
   ]
 }

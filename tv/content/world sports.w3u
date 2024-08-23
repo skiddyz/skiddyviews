@@ -1,0 +1,218 @@
+{
+    "name": "🏈⚽⛳Sports Worlds",
+    "author": "skiddy1337",
+    "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
+    "stations": [
+    {
+        "name": " Sky Sport MotoGP",
+        "image": "https://dookeela.live//uploads/1715569336.png",
+        "url": "https://dookeela.live/live-tv/skysportmotogp",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Sky Sports Action",
+        "image": "https://dookeela.live//uploads/1715648808.png",
+        "url": "https://dookeela.live/live-tv/skysportsaction",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Sky Sports Arena UK",
+        "image": "https://dookeela.live//uploads/1664540905.png",
+        "url": "https://dookeela.live/live-tv/skysportarena",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Sky Sports F1 | UK",
+        "image": "https://dookeela.live//uploads/1712888821.png",
+        "url": "https://dookeela.live/live-tv/skysportsf1",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Sky Sports Football UK",
+        "image": "https://dookeela.live//uploads/1664576894.png",
+        "url": "https://dookeela.live/live-tv/skysportfootball",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Sky Sports Golf | UK",
+        "image": "https://dookeela.live//uploads/1712888702.png",
+        "url": "https://dookeela.live/live-tv/skysportsgolf",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Sky Sports Main Event UK",
+        "image": "https://dookeela.live//uploads/1665106057.png",
+        "url": "https://dookeela.live/live-tv/skysportmainevent",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Sky Sports Mix | UK",
+        "image": "https://dookeela.live//uploads/1712889285.png",
+        "url": "https://dookeela.live/live-tv/skysportsmix",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Sky Sports News | UK",
+        "image": "https://dookeela.live//uploads/1715648168.png",
+        "url": "https://dookeela.live/live-tv/skysportsnews",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Sky Sports Premier League UK",
+        "image": "https://dookeela.live//uploads/1696317833.png",
+        "url": "https://dookeela.live/live-tv/skysportepl",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Sky Sports Racing | UK",
+        "image": "https://dookeela.live//uploads/1712889189.png",
+        "url": "https://dookeela.live/live-tv/skysportsracing",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Sky Sports Tennis | UK",
+        "image": "https://dookeela.live//uploads/1712889076.png",
+        "url": "https://dookeela.live/live-tv/skysportstennis",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " NBA TV",
+        "image": "https://dookeela.live//uploads/1664532126.png",
+        "url": "https://dookeela.live/live-tv/nba",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " NFL Network",
+        "image": "https://dookeela.live//uploads/1694909293.png",
+        "url": "https://dookeela.live/live-tv/nfl",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " MLB",
+        "image": "https://dookeela.live//uploads/1695548172.png",
+        "url": "https://dookeela.live/live-tv/mlb",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Astro Arena",
+        "image": "https://dookeela.live//uploads/1697812603.png",
+        "url": "https://dookeela.live/live-tv/astroarena",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Astro Arena 2",
+        "image": "https://dookeela.live//uploads/1719768111.png",
+        "url": "https://dookeela.live/live-tv/astroarena2",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " ASTRO CRICKET",
+        "image": "https://dookeela.live//uploads/1720166377.png",
+        "url": "https://dookeela.live/live-tv/astrocrickethd",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Astro Supersport",
+        "image": "https://dookeela.live//uploads/1664580131.png",
+        "url": "https://dookeela.live/live-tv/astro1",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Astro Supersport 2",
+        "image": "https://dookeela.live//uploads/1663981185.png",
+        "url": "https://dookeela.live/live-tv/astro2",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Astro Supersport 3",
+        "image": "https://dookeela.live//uploads/1664802651.png",
+        "url": "https://dookeela.live/live-tv/astro3",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Astro Supersport 4",
+        "image": "https://dookeela.live//uploads/1664219714.png",
+        "url": "https://dookeela.live/live-tv/astro4",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " ESPN [USA]",
+        "image": "https://dookeela.live//uploads/1698197339.png",
+        "url": "https://dookeela.live/live-tv/espn1usa",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " ESPN 1 Netherlands",
+        "image": "https://dookeela.live//uploads/1664501652.png",
+        "url": "https://dookeela.live/live-tv/foxsports1nl",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " ESPN 2 Netherlands",
+        "image": "https://dookeela.live//uploads/1664501662.png",
+        "url": "https://dookeela.live/live-tv/foxsports2nl",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " ESPN 3 Netherlands",
+        "image": "https://dookeela.live//uploads/1664501676.png",
+        "url": "https://dookeela.live/live-tv/foxsports3nl",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " ESPN 4 Netherlands",
+        "image": "https://dookeela.live//uploads/1664501687.png",
+        "url": "https://dookeela.live/live-tv/foxsports4nl",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " ESPN2 [USA]",
+        "image": "https://dookeela.live//uploads/1698197356.png",
+        "url": "https://dookeela.live/live-tv/espn2usa",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " ESPN3 [USA]",
+        "image": "https://dookeela.live//uploads/1711310704.png",
+        "url": "https://dookeela.live/live-tv/espn3usa",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Eurosport 1 | Spain",
+        "image": "https://dookeela.live//uploads/1711566124.png",
+        "url": "https://dookeela.live/live-tv/eurosport1es",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " Eurosport 2 | Spain",
+        "image": "https://dookeela.live//uploads/1711566136.png",
+        "url": "https://dookeela.live/live-tv/eurosport2es",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " FOX Sports 1 USA",
+        "image": "https://dookeela.live//uploads/1664219664.png",
+        "url": "https://dookeela.live/live-tv/foxsports1usa",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " FOX Sports 2 USA",
+        "image": "https://dookeela.live//uploads/1673668104.png",
+        "url": "https://dookeela.live/live-tv/foxsports2usa",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " LFCTV",
+        "image": "https://dookeela.live//uploads/1669940282.png",
+        "url": "https://dookeela.live/live-tv/lfctv",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": " MUTV",
+        "image": "https://dookeela.live//uploads/1665106261.png",
+        "url": "https://dookeela.live/live-tv/mutv",
+        "referer": "https://dookeela.live/"
+    }
+  ]
+}
+   

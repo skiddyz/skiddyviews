@@ -4,6 +4,11 @@
     "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
     "stations": [
     {
+      "name": "บางช่องอาจจะดูไม่ได้ กำลังแก้",
+      "image": "",
+      "url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
+    },
+    {
         "name": " Sky Sport MotoGP",
         "image": "https://dookeela.live//uploads/1715569336.png",
         "url": "https://dookeela.live/live-tv/skysportmotogp",
@@ -368,6 +373,11 @@
        "image": "https://rentapi.blackboxsys.net/images/png/hd-golfeng.png",
        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-golfeng&api_key=xjA7kf1WXmzK",
        "referer": "https://dooball66x.com/"
+    },
+    {
+      "name": "More content Soon!",
+      "image": "",
+      "url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"
     }
   ]
 }

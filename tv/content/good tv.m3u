@@ -22,6 +22,12 @@
         "referer": "https://dookeela.live/"
     },
     {
+        "name": "THAI",
+        "image": "https://dookeela.live//uploads/1705536991.png",
+        "url": "https://looxtv.tv/Thainess",
+        "referer": "https://looxtv.tv/"
+    },
+    {
      "name": "More content Soon!",
      "image": "",
      "url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"

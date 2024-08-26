@@ -96,6 +96,12 @@
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25"
     },
     {
+        "name": "[MY/ENG] Astro Ceria",
+        "image": "https://dookeela.live/uploads/1721687988.png",
+        "url": "https://dookeela.live/live-tv/astroceria",
+        "referer": "https://dookeela.live/"
+    },
+    {
       "name": "More content Soon!",
       "image": "",
       "url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/Soon.m3u"

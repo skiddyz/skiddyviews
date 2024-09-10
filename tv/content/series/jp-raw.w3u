@@ -2,7 +2,7 @@
   "name": "🎎🇯🇵ซีรีย์ญี่ปุ่น | ซับไทย",
   "author": "skiddy1337",
   "image": "https://i.pinimg.com/1200x/24/eb/c7/24ebc7943f44a61bccbc0995074f69d6.jpg",
-  "groups": [
+  "groups": [    
     {
       "name": "[ซับไทย] Kanojo, Okarishimasu สะดุดรักยัยแฟนเช่า (Live Action) (2022)",
       "info": "⏳🎬สถานะ : ยังไม่จบ / กำลังอัพเดตเข้ามา",
@@ -13,6 +13,19 @@
           "info": "ซับไทย",
           "image": "https://asianwiki.com/images/e/e2/Kanojo%2C_Okarishimasu-mp1.jpg",
           "url": "https://big.fileditchstuff.me/b39/iyrChSXcSJMMrHZilSTV.mp4"
+        }
+      ]
+    },
+    {
+      "name": "[ซับไทย] Shinmai Shimai no Futari Gohan (Let’s have a meal together) (2019)",
+      "info": "🟢🎬สถานะ : จบแล้ว",
+      "image": "https://www.jcserie.com/wp-content/uploads/2023/06/6.Lets_Have_A_Meal_Together-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.jcserie.com/wp-content/uploads/2023/06/6.Lets_Have_A_Meal_Together-300x450.jpg",
+          "url": "https://live.jcserie.com/videoplayback/85f9fac63744712fe2ed9802526bb197/7be830f4a60ee814900afdb28ddd9208/original/v.mp4?token="
         }
       ]
     },

@@ -4,8 +4,8 @@
     "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
     "stations": [
     {
-      "name": "กำลังแก้",
-      "image": "",
+      "name": "NFL",
+      "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/nfl.png",
       "url": "https://raw.githubusercontent.com/skiddyz/wiseplay-mix/main/category/sports/NFL.w3u"
     }
   ]

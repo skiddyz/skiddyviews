@@ -4,9 +4,14 @@
     "image": "https://i.pinimg.com/originals/8a/89/37/8a893765d44f23e4f2cec145d98f840b.gif",
     "groups": [
     {
-      "name": "NFL",
+      "name": "🏈NFL",
       "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/nfl.png",
       "url": "https://raw.githubusercontent.com/skiddyz/wiseplay-mix/main/category/sports/NFL.w3u"
+    },
+    {
+      "name": "🏀NBA",
+      "image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/sports/nba.png",
+      "url": "https://raw.githubusercontent.com/skiddyz/wiseplay-mix/main/category/sports/NBA.m3u"
     }
   ]
 }
